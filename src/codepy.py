@@ -3,7 +3,7 @@
 import sys
 
 def main():
-    nome = "poesia.txt"
+    nome = "c:/Users/waty/codepy3/src/poesia.txt"
     print("Hello world em Python")
     lepoesias(nome)
 
